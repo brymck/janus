@@ -1,0 +1,11 @@
+snippet !!!
+	<!doctype html>
+snippet head
+	<head>
+		<meta charset="utf-8">
+		<title>${0:`substitute(vim_snippets#Filename('', 'Page Title'), '^.', '\u&', '')`}</title>
+	<head>
+snippet table
+	<table>
+		${0}
+	</table>

@@ -4,6 +4,7 @@
 [submodule "fakeclip"]
 	path = fakeclip
 	url = git@github.com:kana/vim-fakeclip.git
+  ignore = dirty
 [submodule "go"]
 	path = go
 	url = https://github.com/fsouza/go.vim.git
@@ -13,3 +14,29 @@
 [submodule "vim_clojure"]
 	path = vim_clojure
 	url = https://github.com/vim-scripts/VimClojure
+  ignore = dirty
+[submodule "badwolf"]
+	path = badwolf
+	url = https://github.com/sjl/badwolf/
+[submodule "dart-vim-plugin"]
+	path = dart-vim-plugin
+	url = https://github.com/dart-lang/dart-vim-plugin
+[submodule "vim2hs"]
+	path = vim2hs
+	url = https://github.com/dag/vim2hs
+[submodule "vim-slime"]
+	path = vim-slime
+	url = https://github.com/jpalardy/vim-slime
+[submodule "vim-niji"]
+	path = vim-niji
+	url = https://github.com/amdt/vim-niji
+  ignore = dirty
+[submodule "vim-jade"]
+	path = vim-jade
+	url = https://github.com/digitaltoad/vim-jade
+[submodule "vim-json"]
+	path = vim-json
+	url = https://github.com/elzr/vim-json
+[submodule "vim-literate-coffeescript"]
+	path = vim-literate-coffeescript
+	url = https://github.com/mintplant/vim-literate-coffeescript
